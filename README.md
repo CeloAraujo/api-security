@@ -176,7 +176,7 @@ Para a API:
 
 Para o MCP:
 
-- Node.js compativel com TypeScript nativo. O `package.json` do MCP declara `v24.14.0`.
+- Node.js 22 ou superior.
 
 No PowerShell desta maquina, pode ser necessario usar `npm.cmd` em vez de `npm`, porque o `npm.ps1` pode ser bloqueado pela Execution Policy.
 
